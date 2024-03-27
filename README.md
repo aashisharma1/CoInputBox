@@ -30,7 +30,7 @@ dependencyResolutionManagement {
 	}
 
 ```
-## for example 
+## For example 
 
 ```
 val maxPlateLength = 13 // Total length 
