@@ -10,6 +10,8 @@ CoInputBox is a library designed to facilitate the creation of custom input form
 
 ## Usage
 
+## Current Version: 1.0
+
 ### 1. Add the JitPack repository to your build file
 
 ```gradle 
