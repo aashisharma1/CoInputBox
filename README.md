@@ -10,7 +10,7 @@ CoInputBox is a library designed to facilitate the creation of custom input form
 
 ## Usage
 
-## Current Version: 1.0
+[![](https://jitpack.io/v/aashisharma1/CoInputBox.svg)](https://jitpack.io/#aashisharma1/CoInputBox)
 
 ### 1. Add the JitPack repository to your build file
 
